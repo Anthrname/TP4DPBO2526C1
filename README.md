@@ -2,6 +2,9 @@
 
 Aplikasi CRUD data orang berbasis Java Swing (IntelliJ IDEA, Swing UI Designer).
 
+## 📌 JANJI
+> Saya **Najib Nurohman** dengan NIM **2509653** mengerjakan **Tugas Praktikum 4** dalam mata kuliah **Desain Pemrograman Berorientasi Objek (DPBO)** untuk keberkahan-Nya maka saya tidak akan melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
 ## Desain & Fungsi Program
 
 | Berkas | Fungsi |
@@ -25,11 +28,7 @@ Aplikasi CRUD data orang berbasis Java Swing (IntelliJ IDEA, Swing UI Designer).
 
 ## Dokumentasi Menjalankan Program
 
-Dokumentasi demonstrasi program:
-- [Screen Recording 2026-10-11 012953.mp4](Dokumentasi/Screen%20Recording%202026-10-11%20012953.mp4)
+![Demo Program](Dokumentasi/demo.gif)
 
-## Cara Menjalankan
+- **Video Dokumentasi:** [Screen Recording 2026-10-11 012953.mp4](Dokumentasi/Screen%20Recording%202026-10-11%20012953.mp4)
 
-1. Buka folder project di IntelliJ IDEA (JDK 17 atau lebih baru disarankan).
-2. Pastikan plugin **Swing UI Designer** aktif.
-3. Run `PeopleMenu.java`.
