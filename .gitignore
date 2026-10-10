@@ -1,0 +1,13 @@
+# Compiled class files & build output
+out/
+*.class
+
+# Log files
+*.log
+
+# IntelliJ IDEA user-specific files
+.idea/workspace.xml
+.idea/shelf/
+.idea/httpRequests/
+.idea/dataSources/
+.idea/dataSources.local.xml
